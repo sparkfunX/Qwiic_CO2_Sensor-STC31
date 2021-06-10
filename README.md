@@ -1,4 +1,4 @@
-SparkX CO2 Sensor - STC31 (Qwiic)
+SparkX CO<sub>2</sub> Sensor - STC31 (Qwiic)
 ========================================
 
 [![SparkX CO2 Sensor - STC31 (Qwiic) (SPX-nnnnn)]()](https://www.sparkfun.com/products/nnnnn)
@@ -11,7 +11,7 @@ SparkX CO2 Sensor - STC31 (Qwiic)
 
 The STC3x sensor family is Sensirion’s series of Gas Concentration sensors designed for high-volume applications.
 The STC3x utilizes a revolutionized thermal conductivity measurement principle, which results in superior repeatability and long-term stability.
-This make the STC31 a perfect choice for applications where reliability is key.
+This makes the STC31 a perfect choice for applications where reliability is key.
 The outstanding performance of these sensors is based on Sensirion’s patented CMOSens® sensor technology, which combines the sensor element,
 signal processing and digital calibration on a small CMOS chip.
 The well-proven CMOS technology is perfectly suited for high-quality mass production and is the ideal choice for demanding and cost-sensitive OEM applications.

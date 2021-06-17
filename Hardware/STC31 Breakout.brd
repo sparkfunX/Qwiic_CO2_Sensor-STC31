@@ -4646,10 +4646,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="IC-14840" x="12.7" y="20.32" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="U1" library="SparkFun-Sensors" package="STC31" value="STC31" x="12.7" y="15.875" smashed="yes">
-<attribute name="DIGIKEY_PART" value="1649-STC31-R3CT-ND" x="12.7" y="15.875" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="MANU_PART" value="STC31-R3" x="12.7" y="15.875" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="NAME" x="12.216" y="17.998" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="" x="12.7" y="15.875" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="IC-16076" x="12.7" y="15.875" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="R4" library="SparkFun-Resistors" package="0603" value="10k" x="12.7" y="10.541" smashed="yes" rot="R180">
 <attribute name="NAME" x="12.6365" y="10.868" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>

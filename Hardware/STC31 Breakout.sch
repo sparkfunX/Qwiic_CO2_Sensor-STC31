@@ -12541,9 +12541,8 @@ consumer electronics applications. &lt;/p&gt;</description>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DIGIKEY_PART" value="1649-STC31-R3CT-ND" constant="no"/>
 <attribute name="MANU_PART" value="STC31-R3" constant="no"/>
-<attribute name="PROD_ID" value="" constant="no"/>
+<attribute name="PROD_ID" value="IC-16076" constant="no"/>
 </technology>
 </technologies>
 </device>

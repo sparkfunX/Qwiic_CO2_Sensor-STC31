@@ -1,9 +1,9 @@
 SparkX CO<sub>2</sub> Sensor - STC31 (Qwiic)
 ========================================
 
-[![SparkX CO2 Sensor - STC31 (Qwiic) (SPX-nnnnn)]()](https://www.sparkfun.com/products/nnnnn)
+[![SparkX CO2 Sensor - STC31 (Qwiic) (SPX-18385)]()](https://www.sparkfun.com/products/18385)
 
-[*SparkX CO2 Sensor - STC31 (Qwiic) (SPX-nnnnn)*](https://www.sparkfun.com/products/nnnnn)
+[*SparkX CO2 Sensor - STC31 (Qwiic) (SPX-18385)*](https://www.sparkfun.com/products/18385)
 
 ![SparkX CO2 Sensor - STC31 (Qwiic)](./img/Top.png)
 ![SparkX CO2 Sensor - STC31 (Qwiic)](./img/Bottom.png)
@@ -30,6 +30,7 @@ Repository Contents
 -------------------
 * **/Documents** - datasheets etc.
 * **/Hardware** - Eagle design files (.brd, .sch)
+- **LICENSE.md** contains the licence information
 
 Documentation
 --------------
@@ -38,7 +39,7 @@ Documentation
 
 Product Versions
 ----------------
-* [SPX-nnnnn](https://www.sparkfun.com/products/nnnnn) - Original SparkX Release.
+* [SPX-18385](https://www.sparkfun.com/products/18385) - Original SparkX Release.
 
 License Information
 -------------------
@@ -47,7 +48,7 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information.
 
-If you have any questions or concerns on licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=105).
+If you have any questions or concerns on licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=123).
 
 Distributed as-is; no warranty is given.
 

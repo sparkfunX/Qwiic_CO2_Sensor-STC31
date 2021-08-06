@@ -1,12 +1,10 @@
 SparkX CO<sub>2</sub> Sensor - STC31 (Qwiic)
 ========================================
 
-[![SparkX CO2 Sensor - STC31 (Qwiic) (SPX-18385)]()](https://www.sparkfun.com/products/18385)
+[![SparkX CO2 Sensor - STC31 (Qwiic) (SPX-18385)](https://cdn.sparkfun.com//assets/parts/1/7/7/9/5/18385-STC31_Breakout-01.jpg)](https://www.sparkfun.com/products/18385)
 
 [*SparkX CO2 Sensor - STC31 (Qwiic) (SPX-18385)*](https://www.sparkfun.com/products/18385)
 
-![SparkX CO2 Sensor - STC31 (Qwiic)](./img/Top.png)
-![SparkX CO2 Sensor - STC31 (Qwiic)](./img/Bottom.png)
 ![SparkX CO2 Sensor - STC31 (Qwiic)](./img/Dimensions.png)
 
 Do you need to be able to sense CO<sub>2</sub> concentrations of up to 100%? If so, the STC31 is the sensor for you!
